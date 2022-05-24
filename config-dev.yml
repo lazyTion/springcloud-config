@@ -1,2 +1,4 @@
-config
- info: "sdfsfsfsdfsafsafsfsd"
+config:
+  info: "sdfsafsadfsdf
+server:
+  port: 3355
